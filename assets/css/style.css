@@ -425,7 +425,7 @@ section {
   border-radius: 0;
 }
 
-.skills .progress .skill {
+.skills .skill {
   display: inline-block;
   padding: 0 25px;
   margin-bottom:5px;
