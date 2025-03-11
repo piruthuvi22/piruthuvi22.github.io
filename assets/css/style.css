@@ -428,6 +428,8 @@ section {
 .skills .progress .skill {
   display: inline-block;
   padding: 0 25px;
+  margin-bottom:5px;
+  margin-right:8px;
   height: 40px;
   font-size: 16px;
   line-height: 40px;
